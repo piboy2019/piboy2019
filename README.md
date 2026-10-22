@@ -1,16 +1,50 @@
-## Hi there 👋
+# 你好，我是 piboy2019 👋
 
-<!--
-**piboy2019/piboy2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这个页面是我所有仓库的**目录说明书**。仓库不多，但以前建的时候没写说明，过段时间自己都忘了是干嘛的——所以现在每个都在下面写清楚了：**这是啥、干嘛用、现在还用不用、能不能删。** 以后忘了，翻这一页就行。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 一、搭 CF 节点的面板仓库（5 个）
+
+这 5 个是同一套面板代码，当时照教程搭 Cloudflare 节点时建的。一个仓库对应一个节点的部署，代码一模一样，区别在 Cloudflare 那边填的配置。它们的作用是：原作者更新了代码，这边同步一下就能自动重新部署，节点跟着升级。
+
+**共同规矩：哪个都别删、别改名。** 现在分不清哪个还在跑，删错一个，那个节点的自动更新就断了。
+
+| 仓库 | 大白话说明 |
+|---|---|
+| [mianban](https://github.com/piboy2019/mianban) | 最早建的那个面板仓库（2025 年 4 月），搭 CF 节点的起点 |
+| [mianbanYaZhou](https://github.com/piboy2019/mianbanYaZhou) | 亚洲方向的节点部署（2025 年 5 月） |
+| [mianbanriben](https://github.com/piboy2019/mianbanriben) | 日本方向的节点部署（2025 年 5 月） |
+| [mianbandeguo](https://github.com/piboy2019/mianbandeguo) | 德国方向的节点部署（2025 年 5 月） |
+| [meiguo20250903](https://github.com/piboy2019/meiguo20250903) | 美国方向的节点部署（2025 年 9 月 3 日建的，所以名字里带了日期） |
+
+## 二、存下来正在用的好东西（2 个）
+
+这 2 个是把别人公开的仓库复制了一份到我名下（Fork），怕原作者哪天删了或者转私有了，我这份还在。**两个都在用，别删。**
+
+| 仓库 | 大白话说明 |
+|---|---|
+| [ChinaTextbook](https://github.com/piboy2019/ChinaTextbook) | 别人整理的全套 PDF 教材：小学、初中、高中、大学都有。我拿它给孩子找课本（正在用二年级的），是从 TapXWorld 那里复制来的 |
+| [ziwei-doushu](https://github.com/piboy2019/ziwei-doushu) | 紫微斗数排盘工具，按倪海厦《天纪》的体系算命盘。算命的时候在用，是从 Renhuai123 那里复制来的（2026 年 10 月存的） |
+
+## 三、存下来先放着的（3 个）
+
+也是复制别人仓库存的，暂时还没用上。留着不花钱、不占事，删了以后想用就找不回了，所以先放着。哪天真用上了，就挪到上面第二类去。
+
+| 仓库 | 大白话说明 |
+|---|---|
+| [sap-hz](https://github.com/piboy2019/sap-hz) | 一个自动部署 SAP 并保活的小工具（2025 年 9 月存的） |
+| [BettaFish](https://github.com/piboy2019/BettaFish) | 叫「微舆」的舆情分析工具：多个 AI 一起上网看舆论、分析走向（2025 年 11 月存的） |
+| [yichen-weixin-skills](https://github.com/piboy2019/yichen-weixin-skills) | 一套微信相关的技能合集（2026 年 9 月存的） |
+
+## 四、以后新存的仓库，登记在这里
+
+规矩：以后看到别人好用的公开仓库，先复制一份到我名下，再在下面这张表里登记一行——啥时候存的、从谁那复制的、干嘛用的。这样永远不会再乱。
+
+| 日期 | 仓库 | 从哪复制的 | 干嘛用 |
+|---|---|---|---|
+| （下一条从这里开始记） | | | |
+
+---
+
+*本页由 Muse 维护（「github」专属窗口），最后整理：2026-10-22。账号旧名 faqaazqzzzzz，已于 2026-10-22 改名为 piboy2019，老地址会自动跳转到新地址。*

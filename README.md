@@ -44,6 +44,11 @@
 | 日期 | 仓库 | 从哪复制的 | 干嘛用 |
 |---|---|---|---|
 | 2026-10-22 | [jianying-headless](https://github.com/piboy2019/jianying-headless) | mcncarl（逸尘） | 剪映无头自动化：让 AI 直接生成/修改剪映草稿并导出。作者收到律师函、宣布当天转私有，关门前抢存的；仓库里另有《存档说明》写清了来龙去脉 |
+| 2026-10-22 | [rayskills](https://github.com/piboy2019/rayskills) | imraywang | 写作+做视频的整套 skill（8 个）：写公众号长文、口播稿、封面、讲解视频全链路。技能库顶梁柱，天天在用；仓库里另有《存档说明》（注意：这套只能学和自用，不能拿去卖） |
+| 2026-10-22 | [huashu-art-motion](https://github.com/piboy2019/huashu-art-motion) | alchaincyf（花叔） | 艺术风动画 skill，咱家视频出片前管最后一道质检；在用组合的一员，仓库里另有《存档说明》 |
+| 2026-10-22 | [lemo-opuscar](https://github.com/piboy2019/lemo-opuscar) | lemomo-ai | 视频风格库 skill，做视频时从它这里挑画面风格；在用组合的一员，仓库里另有《存档说明》 |
+| 2026-10-22 | [sweety-handdraw-video](https://github.com/piboy2019/sweety-handdraw-video) | threerocks | 手绘风讲解视频 skill，纯本地代码画出来；给孩子做课本视频的候选主力，仓库里另有《存档说明》 |
+| 2026-10-22 | [guizang-social-card-skill](https://github.com/piboy2019/guizang-social-card-skill) | op7418（归藏） | 图文卡片 skill：小红书卡片、公众号封面都靠它，天天在用。作者 3 个多月没更新了，所以更要存；仓库里另有《存档说明》 |
 
 ---
 

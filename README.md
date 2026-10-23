@@ -49,7 +49,8 @@
 | 2026-10-22 | [lemo-opuscar](https://github.com/piboy2019/lemo-opuscar) | lemomo-ai | 视频风格库 skill，做视频时从它这里挑画面风格；在用组合的一员，仓库里另有《存档说明》 |
 | 2026-10-22 | [sweety-handdraw-video](https://github.com/piboy2019/sweety-handdraw-video) | threerocks | 手绘风讲解视频 skill，纯本地代码画出来；给孩子做课本视频的候选主力，仓库里另有《存档说明》 |
 | 2026-10-22 | [guizang-social-card-skill](https://github.com/piboy2019/guizang-social-card-skill) | op7418（归藏） | 图文卡片 skill：小红书卡片、公众号封面都靠它，天天在用。作者 3 个多月没更新了，所以更要存；仓库里另有《存档说明》 |
+| 2026-10-23 | [cn-math-taxonomy](https://github.com/piboy2019/cn-math-taxonomy) | xiaoyang111222（风清扬） | 中小学知识图谱：给孩子数学做"体检"找断点——从正学的知识点往回追，追到真正没学会的地方在哪。教育线在用；注意：这是作者用 AI 生成的初稿、没经过老师审核，测出的结论只当线索；仓库里另有《存档说明》 |
 
 ---
 
-*本页由 Muse 维护（「github」专属窗口），最后整理：2026-10-22。账号旧名 faqaazqzzzzz，已于 2026-10-22 改名为 piboy2019，老地址会自动跳转到新地址。*
+*本页由 Muse 维护（「github」专属窗口），最后整理：2026-10-23。账号旧名 faqaazqzzzzz，已于 2026-10-22 改名为 piboy2019，老地址会自动跳转到新地址。*
